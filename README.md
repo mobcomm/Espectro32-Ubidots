@@ -24,6 +24,4 @@ Then, you must extract the content of the `lib` directory inside this library to
 
 ## Credits
 
-* [esp32-snippets/cpp_utils](https://github.com/nkolban/esp32-snippets/tree/master/cpp_utils)
-* [Adafruit_IS31FL3731](https://github.com/adafruit/Adafruit_IS31FL3731)
-* [ESP32 MQTT Library](https://github.com/tuanpmt/espmqtt)
+* [ESPectro32](https://shop.makestro.com/product/espectro32-v2/)
